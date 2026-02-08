@@ -20,3 +20,5 @@ Este repositorio contiene implementaciones en MATLAB para **procesamiento y aume
 ```matlab
 ImgEscalada = InterpolacionBilinealManual(I, 0.5, 0.75);
 imgCutMix = cutmix_image_only(imgA, imgB, alpha);
+## Presentación
+https://www.canva.com/design/DAHAlakVXGw/4V7TcnV_H84lkWtvUzExBw/view?utm_content=DAHAlakVXGw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb6832b014d
